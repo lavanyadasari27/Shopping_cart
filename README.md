@@ -21,7 +21,7 @@ In this project, a shopping cart of built and the customers can add product, get
 
 ## USAGE
 1. Use below commands to compile and execute. \
- ``$ tsc shopping.ts\
+ ``$ tsc shopping.ts
  $ node shopping.js``
 
 ## LICENSE
